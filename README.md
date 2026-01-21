@@ -82,7 +82,6 @@ stock-prediction-dashboard/
 ├── sentiment_analyzer.py     # News sentiment analysis (VADER)
 ├── requirements.txt          # Python dependencies
 ├── .env                      # API keys (optional, not committed)
-├── .env.example              # Example environment variables
 └── README.md                 # This file
 ```
 
